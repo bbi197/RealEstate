@@ -1,6 +1,4 @@
-\
         import React, { useState, useMemo, useEffect } from "react";
-
         // RealEstateApp.jsx
         // Single-file React app (Tailwind CSS classes) designed to be deployed to Netlify.
         // Features:
